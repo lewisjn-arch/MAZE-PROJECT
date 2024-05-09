@@ -11,6 +11,7 @@
 extern char map[SCREEN_HEIGHT / TILE_SIZE][SCREEN_WIDTH / TILE_SIZE];
 
 void parse_map(const char *filename);
+char map[SCREEN_HEIGHT / TILE_SIZE][SCREEN_WIDTH / TILE_SIZE];
 
 #endif /* MAP_H */
 
