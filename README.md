@@ -20,6 +20,6 @@ This project is a raycasting game inspired by classic first-person shooter games
 8. Use the 'r' key to toggle rain effects.
 
 ## Download
-You can download the game from the project landing page [here](https://projectlandingpage.com).
+You can download the game from the project landing page [here](https://lewisjn-arch.github.io/MAZE-PROJECT-PAGE/).
 
 Enjoy playing the game!
